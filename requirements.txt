@@ -15,3 +15,4 @@ statsmodels
 sympy
 tensorflow; python_version < '3.9'
 xgboost
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
